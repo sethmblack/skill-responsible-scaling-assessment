@@ -4,7 +4,8 @@ description: Evaluate whether a capability increase is appropriately coupled wit
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4838
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - responsible-scaling-assessment
 - writing
